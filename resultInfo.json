@@ -1,0 +1,10 @@
+{
+  "name": "zzy",
+  "pages": [
+    {
+      "title": "Plugin/Preset files are not allowed to export objects,only functions.webpack报错/babel报错的解决办法",
+      "href": "https://blog.csdn.net/weixin_41779718/article/details/105149338"
+    }
+  ]
+}
+
